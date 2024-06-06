@@ -1,0 +1,16 @@
+Basic Before Getting Start
+ => what are client and server sides?
+  - client > server, server > client
+  - client side => HTML, CSS, javascript(request)
+  - server side => Node Js(response)
+
+ => where do we use node(client or server side?)
+ 
+ => how node.js use javascript?
+  - V8 - V8 (c++ is internal programming language)
+
+ => what developer make with node.js?
+  - Developer make API with Node js.
+  - So we can connect server with client
+  - node can make API for web, Android and iOS etc.
+  - Make can also make website.

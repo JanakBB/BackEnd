@@ -1,0 +1,16 @@
+script with command line:
+ => write node in command line and enter
+ => Welcome to Node.js v20.13.1.
+    Type ".help" for more information.
+    > [] like this
+ => console.log('hellow world')
+    hellow world
+    undefined
+    > []
+
+make folder and file
+ => same vs code normal file and folder
+
+interview question: console.log is same browser and node ?
+ => 
+  
